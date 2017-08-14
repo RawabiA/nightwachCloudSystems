@@ -1,0 +1,17 @@
+{
+  "name": "ra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-e2e": "nightwatch"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.16"
+  }
+}
